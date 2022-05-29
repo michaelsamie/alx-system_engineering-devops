@@ -1,1 +1,1 @@
-This is a bash basic project
+This project contains different bash script
